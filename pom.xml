@@ -24,15 +24,15 @@
   
   
   </dependencies>
-  <!--
+  
   <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/meghachinchole</url>
+      <url>https://maven.pkg.github.com/meghachinchole/RESTUserContext</url>
     </repository>
   </distributionManagement>
-  -->
+  
   
   <build>
     <sourceDirectory>src</sourceDirectory>
